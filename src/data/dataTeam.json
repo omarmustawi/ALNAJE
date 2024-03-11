@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "img": "/Icons/imgMember2.jpg",
+    "name": "علي ناجي مونس",
+    "role": "مدير الشركة",
+    "description": "رائد أعمال مبتكر يدير شركة الناجي ومشاريعها الكبرى. يتمتع بخبرة واسعة في تخطيط وتنفيذ الأعمــال .",
+    "facebook": "https://www.facebook.com/profile.php?id=61555778226231",
+    "telegram": "https://t.me/alnaje_company",
+    "whatapp": "https://2h.ae/kBvc"
+  },
+  {
+    "id": 2,
+    "img": "/Icons/imgMember1.jpg",
+    "name": "ابراهيم غايب",
+    "role": "مدير إدارة الشركة",
+    "description": "مهنـدس مدني متخصص في إدارة المشاريع الكبرى. يتمتع بخبرة واسعة في تخطيط وتنفيذ الأعمــال الإنشائيـــة.",
+    "facebook": "https://www.facebook.com/profile.php?id=61555778226231",
+    "telegram": "https://t.me/alnaje_company",
+    "whatapp": "https://2h.ae/kBvc"
+  }
+]
